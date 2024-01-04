@@ -1,7 +1,7 @@
 div{
     background-color: cadetblue;
     padding: 5px;
-    margin: 30px;
+    margin-bottom: 10px;
     
 }
 
@@ -11,3 +11,16 @@ h3{
 p{
     font-size: 30px;
 }
+
+ .first{
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    
+ }
+ .second{
+    font-family: sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: red;
+ }
